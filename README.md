@@ -74,7 +74,46 @@ ai-agents-gemini-alura/
 └── README.md
 ```
 
+### App Features | Funcionalidades da Aplicação
+
+**EN 🇬🇧**
+
+AI agents powered by Google Gemini
+
+Prompt-driven interactions for intelligent task execution
+
+Modular agent architecture for scalability and experimentation
+
+Natural language understanding and response generation
+
+Integration of LLM reasoning into practical workflows
+
+Interactive execution via Python scripts and/or notebooks
+
+Focus on applied Generative AI and agent-based systems
+
+Educational structure designed for learning and experimentation
+
+**PT 🇧🇷 / 🇵🇹**
+
+Agentes de IA desenvolvidos com Google Gemini
+
+Interações baseadas em prompts para execução inteligente de tarefas
+
+Arquitetura modular de agentes, facilitando escalabilidade e testes
+
+Compreensão e geração de linguagem natural (NLP)
+
+Integração de raciocínio de LLM em fluxos práticos
+
+Execução interativa via scripts Python e/ou notebooks
+
+Foco em IA Generativa aplicada e sistemas baseados em agentes
+
+Estrutura educacional voltada para aprendizado e experimentação
+
 ---
+
 
 ## ⚙️ Requirements | Requisitos
 
@@ -97,10 +136,8 @@ ai-agents-gemini-alura/
 **EN**
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ai-agents-gemini-alura.git
-```
+  - git clone: https://github.com/ezequielcabeja/ai-agents-gemini-alura.git
+  - Extract the .zip file and enter the directory.
 
 2. Navigate to the project folder:
 
@@ -146,10 +183,8 @@ code ai-agents-gemini-alura
 **PT**
 
 1. Clone o repositório:
-
-```bash
-git clone https://github.com/SEU_USUARIO/ai-agents-gemini-alura.git
-```
+ - git clone https://github.com/ezequielcabeja/ai-agents-gemini-alura.git
+ - Extraia o .zip e entre no diretório
 
 2. Acesse a pasta do projeto:
 
@@ -195,7 +230,8 @@ code ai-agents-gemini-alura
 ## 👤 Author | Autor
 
 Developed by / Desenvolvido por:
-**Ezequiel Tchimbaya Cachapeu Paulo**
+
+**- [Ezequiel Tchimbaya Cachapeu Paulo](https://github.com/ezequielcabeja)**
 
 ---
 
@@ -210,4 +246,5 @@ Este projeto é destinado a **fins educacionais e de portfólio**.
 ---
 
 ⭐ If this repository helped you, consider giving it a star!
+
 ⭐ Se este repositório te ajudou, considera deixar uma estrela!
